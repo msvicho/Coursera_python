@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python-for-Everybody-Coursera-master/.idea/Python-for-Everybody-Coursera-master.iml" filepath="$PROJECT_DIR$/../Python-for-Everybody-Coursera-master/.idea/Python-for-Everybody-Coursera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coursera-python-for-everybody-specialization-master/.idea/coursera-python-for-everybody-specialization-master.iml" filepath="$PROJECT_DIR$/../coursera-python-for-everybody-specialization-master/.idea/coursera-python-for-everybody-specialization-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/json2.iml" filepath="$PROJECT_DIR$/.idea/json2.iml" />
+    </modules>
+  </component>
+</project>
