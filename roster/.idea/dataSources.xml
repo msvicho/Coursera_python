@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="assignment_15_8_test" uuid="acdfefcb-7b10-4c5e-9d21-17357e48e239">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/../coursera-python-for-everybody-specialization-master/Course_4_Using_Databases_with_Python/assignment_15_8_test/assignment_15_8_test.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

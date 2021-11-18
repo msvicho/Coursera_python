@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../coursera-python-for-everybody-specialization-master/Course_4_Using_Databases_with_Python/.idea/Course_4_Using_Databases_with_Python.iml" filepath="$PROJECT_DIR$/../coursera-python-for-everybody-specialization-master/Course_4_Using_Databases_with_Python/.idea/Course_4_Using_Databases_with_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Coursera_Python_4_Everybody/.idea/Coursera_Python_4_Everybody.iml" filepath="$PROJECT_DIR$/../Coursera_Python_4_Everybody/.idea/Coursera_Python_4_Everybody.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/roster.iml" filepath="$PROJECT_DIR$/.idea/roster.iml" />
+    </modules>
+  </component>
+</project>
